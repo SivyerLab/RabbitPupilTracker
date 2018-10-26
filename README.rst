@@ -40,4 +40,4 @@ Screen Shots
 
 Main screen with tracked pupil:
 
-.. image:: ../docs/Screenshot1.PNG
+.. image:: docs/Screenshot1.PNG
